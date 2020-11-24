@@ -3,5 +3,17 @@ initial_creation_type: ocr
 source_metadata:
   id: bdr:W30474
   title: བོད་ཀྱི་མཆོད་བཤད།
-  volume: ''
+  volume:
+    de40b26748f2493abba24f27aa70c9d8:
+      image_group_id: I1KG23324
+      title: Volume 1 of bod kyi mchod bshad/
+      volume_number: 1
+      total_pages: 112
   author: ''
+ebook_metadata:
+  title: བོད་ཀྱི་མཆོད་བཤད།
+  author: ''
+  sku: P000522
+  cover: cover.jpg
+  layers:
+  - pagination
